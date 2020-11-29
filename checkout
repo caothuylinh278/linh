@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Basic -->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Site Metas -->
+    <title>ThewayShop - Ecommerce Bootstrap 4 HTML Template</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Site Icons -->
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- Site CSS -->
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Responsive CSS -->
+    <link rel="stylesheet" href="css/responsive.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/custom.css">
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Start Main Top -->
+    <div class="main-top">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <div class="text-slid-box">
+                        <div id="offer-box" class="carouselTicker">
+                            <ul class="offer-box">
+                                <li>
+                                    <i class="fab fa-opencart"></i> Off 10%! Shop Now Man
+                                </li>
+                                <li>
+                                    <i class="fab fa-opencart"></i> 50% - 80% off on Fashion
+                                </li>
+                                <li>
+                                    <i class="fab fa-opencart"></i> 20% off Entire Purchase Promo code: offT20
+                                </li>
+                                <li>
+                                    <i class="fab fa-opencart"></i> Off 50%! Shop Now
+                                </li>
+                                <li>
+                                    <i class="fab fa-opencart"></i> Off 10%! Shop Now Man
+                                </li>
+                                <li>
+                                    <i class="fab fa-opencart"></i> 50% - 80% off on Fashion
+                                </li>
+                                <li>
+                                    <i class="fab fa-opencart"></i> 20% off Entire Purchase Promo code: offT20
+                                </li>
+                                <li>
+                                    <i class="fab fa-opencart"></i> Off 50%! Shop Now
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <div class="custom-select-box">
+                        <select id="basic" class="selectpicker show-tick form-control" data-placeholder="$ USD">
+						<option>đ VNĐ</option>
+                        <option>$ USD</option>
+					</select>
+                    </div>
+                    <div class="right-phone-box">
+                        <p>Gọi ngay: <a href="#"> 0987 528 377 - 0989 490 980</a></p>
+                    </div>
+                    <div class="our-link">
+                        <ul>
+                            <li><a href="#">Tài khoản</a></li>
+                            <li><a href="#">Vị trí</a></li>
+                            <li><a href="#">Liên hệ</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Main Top -->
+
+    <!-- Start Main Top -->
+    <header class="main-header">
+        <!-- Start Navigation -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light navbar-default bootsnav">
+            <div class="container">
+                <!-- Start Header Navigation -->
+                <div class="navbar-header">
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-menu" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="fa fa-bars"></i>
+                </button>
+                    <a class="navbar-brand" href="index.html"><img src="images/logo.png" class="logo" alt=""></a>
+                </div>
+                <!-- End Header Navigation -->
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="navbar-menu">
+                    <ul class="nav navbar-nav ml-auto" data-in="fadeInDown" data-out="fadeOutUp">
+                        <li class="nav-item"><a class="nav-link" href="index.html">Trang chủ</a></li>
+                        <li class="nav-item"><a class="nav-link" href="about.html">Giới thiệu</a></li>
+                        <li class="dropdown megamenu-fw">
+                            <a href="#" class="nav-link dropdown-toggle arrow" data-toggle="dropdown">Sản phẩm</a>
+                            <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-md-3">
+                                            <h6 class="title">Túi xách đẹp</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="shop.html">Túi xách Chanel F1</a></li>
+                                                    <li><a href="shop.html">Túi xách Celine F1</a></li>
+                                                    <li><a href="shop.html">Túi xách D&G F1</a></li>
+                                                    <li><a href="shop.html">Túi xách Dior F1</a></li>
+                                                    <li><a href="shop.html">Túi xách Prada F1</a></li>
+                                                    <li><a href="shop.html">Túi xách MK F1</a></li>
+                                                    <li><a href="shop.html">Túi xách LV/ Louis Vuitton F1</a></li>
+                                                    <li><a href="shop.html">Túi xách Hermes F1</a></li>
+                                                    <li><a href="shop.html">Túi xách Savaltore F1</a></li>
+                                                    <li><a href="shop.html">Túi xách Givenchy F1</a></li>
+                                                    <li><a href="shop.html">Túi xách Fendi F1</a></li>
+                                                    <li><a href="shop.html">Túi xách Shy Girl F1</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <!-- end col-3 -->
+                                        <div class="col-menu col-md-3">
+                                            <h6 class="title">Túi xách hàng hiệu</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="shop.html">Túi xách MKS</a></li>
+                                                    <li><a href="shop.html">Túi xách D & G</a></li>
+                                                    <li><a href="shop.html">Túi xách Savaltore</a></li>
+                                                    <li><a href="shop.html">Túi xách Charles $ Keith</a></li>
+                                                    <li><a href="shop.html">Túi xách MCM</a></li>
+                                                    <li><a href="shop.html">Túi xách Celine</a></li>
+                                                    <li><a href="shop.html">Túi xách Dior</a></li>
+                                                    <li><a href="shop.html">Túi xách Gucci</a></li>
+                                                    <li><a href="shop.html">Túi xách Pinko</a></li>
+                                                    <li><a href="shop.html">Túi xách Chanel</a></li>
+                                                    <li><a href="shop.html">Túi xách Chloe</a></li>
+                                                    <li><a href="shop.html">Túi xách Prada</a></li>
+                                                    <li><a href="shop.html">Túi xách Hermes</a></li>
+                                                    <li><a href="shop.html">Túi xách Fendi</a></li>
+                                                    <li><a href="shop.html">Túi xách Canvas Pallas</a></li>
+                                                    <li><a href="shop.html">Túi xách Burberry</a></li>
+                                                    <li><a href="shop.html">Túi xách Givenchy</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <!-- end col-3 -->
+                                        <div class="col-menu col-md-3">
+                                            <h6 class="title">Mắt kính</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="shop.html">Mắt kính Dior</a></li>
+                                                    <li><a href="shop.html">Mắt kính Gucci</a></li>
+                                                    <li><a href="shop.html">Mắt kính Prada</a></li>
+                                                    <li><a href="shop.html">Mắt kính Gentle Monster</a></li>
+                                                    <li><a href="shop.html">Mắt kính Versace</a></li>
+                                                    <li><a href="shop.html">Mắt kính Miu Miu</a></li>
+                                                    <li><a href="shop.html">Mắt kính Ray.Ban</a></li>
+                                                    <li><a href="shop.html">Mắt kính Kenzo</a></li>
+                                                    <li><a href="shop.html">Mắt kính Chanel</a></li>
+                                                    <li><a href="shop.html">Mắt kính D & G</a></li>
+                                                    <li><a href="shop.html">Mắt kính Chloe</a></li>
+                                                    <li><a href="shop.html">Mắt kính LV</a></li>
+                                                    <li><a href="shop.html">Mắt kính Sanvatore</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-md-3">
+                                            <h6 class="title">Phụ kiện</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="shop.html">Thắt lưng Hermes</a></li>
+                                                    <li><a href="shop.html">Thắt lưng Gucci</a></li>
+                                                    <li><a href="shop.html">Thắt lưng Louis Vuitton</a></li>
+                                                    <li><a href="shop.html">Thắt lưng Salvatore Ferragamo</a></li>
+                                                    <li><a href="shop.html">Vòng cổ Dior</a></li>
+                                                    <li><a href="shop.html">Nhẫn Diva</a></li>
+                                                    <li><a href="shop.html">Khăn Dior</a></li>
+                                                    <li><a href="shop.html">Khăn choàng LV</a></li>
+                                                    <li><a href="shop.html">Vòng tay Chanel</a></li>
+                                                    <li><a href="shop.html">Vòng tay Dior</a></li>
+                                                    <li><a href="shop.html">Vòng tay Hermes</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <!-- end col-3 -->
+                                    </div>
+                                    <!-- end row -->
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown active">
+                            <a href="#" class="nav-link dropdown-toggle arrow" data-toggle="dropdown">Cửa hàng</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="cart.html">Giỏ hàng</a></li>
+                                <li><a href="checkout.html">Đăng ký</a></li>
+                                <li><a href="my-account.html">Đăng nhập</a></li>
+                                <li><a href="wishlist.html">Sản phẩm yêu thích</a></li>
+                                <li><a href="shop-detail.html">Chi tiết sản phẩm</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item"><a class="nav-link" href="service.html">Dịch vụ</a></li>
+                        <li class="nav-item"><a class="nav-link" href="contact-us.html">Liên hệ</a></li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+
+                <!-- Start Atribute Navigation -->
+                <div class="attr-nav">
+                    <ul>
+                        <li class="search"><a href="#"><i class="fa fa-search"></i></a></li>
+                        <li class="side-menu"><a href="#">
+						<i class="fa fa-shopping-bag"></i>
+                            <span class="badge">3</span>
+					</a></li>
+                    </ul>
+                </div>
+                <!-- End Atribute Navigation -->
+            </div>
+            <!-- Start Side Menu -->
+            <div class="side">
+                <a href="#" class="close-side"><i class="fa fa-times"></i></a>
+                <li class="cart-box">
+                    <ul class="cart-list">
+                        <li>
+                            <a href="#" class="photo"><img src="images/img-pro-01.jpg" class="cart-thumb" alt="" /></a>
+                            <h6><a href="#">Delica omtantur </a></h6>
+                            <p>1x - <span class="price">$80.00</span></p>
+                        </li>
+                        <li>
+                            <a href="#" class="photo"><img src="images/img-pro-02.jpg" class="cart-thumb" alt="" /></a>
+                            <h6><a href="#">Omnes ocurreret</a></h6>
+                            <p>1x - <span class="price">$60.00</span></p>
+                        </li>
+                        <li>
+                            <a href="#" class="photo"><img src="images/img-pro-03.jpg" class="cart-thumb" alt="" /></a>
+                            <h6><a href="#">Agam facilisis</a></h6>
+                            <p>1x - <span class="price">$40.00</span></p>
+                        </li>
+                        <li class="total">
+                            <a href="#" class="btn btn-default hvr-hover btn-cart">Giỏ hàng</a>
+                            <span class="float-right"><strong>Tổng tiền</strong>: $180.00</span>
+                        </li>
+                    </ul>
+                </li>
+            </div>
+            <!-- End Side Menu -->
+        </nav>
+        <!-- End Navigation -->
+    </header>
+    <!-- End Main Top -->
+
+    <!-- Start Top Search -->
+    <div class="top-search">
+        <div class="container">
+            <div class="input-group">
+                <span class="input-group-addon"><i class="fa fa-search"></i></span>
+                <input type="text" class="form-control" placeholder="Search">
+                <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
+            </div>
+        </div>
+    </div>
+    <!-- End Top Search -->
+
+    <!-- Start All Title Box -->
+    <div class="all-title-box">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2>Đăng ký</h2>
+                    <ul class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="#">Cửa hàng</a></li>
+                        <li class="breadcrumb-item active">Đăng ký</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End All Title Box -->
+
+    <!-- Start Cart  -->
+    <div class="cart-box-main">
+        <div class="container">
+            <div class="row new-account-login">
+                <div class="col-sm-6 col-lg-6 mb-3">
+                    <div class="title-left">
+                        <h3>Tài khoản đăng nhập</h3>
+                    </div>
+                    <h5><a data-toggle="collapse" href="#formLogin" role="button" aria-expanded="false">Đăng nhập</a></h5>
+                    <form class="mt-3 collapse review-form-box" id="formLogin">
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <label for="InputEmail" class="mb-0">Địa chỉ Email</label>
+                                <input type="email" class="form-control" id="InputEmail" placeholder="Enter Email"> </div>
+                            <div class="form-group col-md-6">
+                                <label for="InputPassword" class="mb-0">Mật khẩu</label>
+                                <input type="password" class="form-control" id="InputPassword" placeholder="Password"> </div>
+                        </div>
+                        <button type="submit" class="btn hvr-hover">Đăng nhập</button>
+                    </form>
+                </div>
+                <div class="col-sm-6 col-lg-6 mb-3">
+                    <div class="title-left">
+                        <h3>Tạo tài khoản</h3>
+                    </div>
+                    <h5><a data-toggle="collapse" href="#formRegister" role="button" aria-expanded="false">Đăng ký</a></h5>
+                    <form class="mt-3 collapse review-form-box" id="formRegister">
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <label for="InputName" class="mb-0">Họ đệm</label>
+                                <input type="text" class="form-control" id="InputName" placeholder="First Name"> </div>
+                            <div class="form-group col-md-6">
+                                <label for="InputLastname" class="mb-0">Tên</label>
+                                <input type="text" class="form-control" id="InputLastname" placeholder="Last Name"> </div>
+                            <div class="form-group col-md-6">
+                                <label for="InputEmail1" class="mb-0">Địa chỉ Email</label>
+                                <input type="email" class="form-control" id="InputEmail1" placeholder="Enter Email"> </div>
+                            <div class="form-group col-md-6">
+                                <label for="InputPassword1" class="mb-0">Mật khẩu</label>
+                                <input type="password" class="form-control" id="InputPassword1" placeholder="Password"> </div>
+                        </div>
+                        <button type="submit" class="btn hvr-hover">Đăng ký</button>
+                    </form>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6 col-lg-6 mb-3">
+                    <div class="checkout-address">
+                        <div class="title-left">
+                            <h3>Địa chỉ thanh toán</h3>
+                        </div>
+                        <form class="needs-validation" novalidate>
+                            <div class="row">
+                                <div class="col-md-6 mb-3">
+                                    <label for="firstName">Họ đệm *</label>
+                                    <input type="text" class="form-control" id="firstName" placeholder="" value="" required>
+                                    <div class="invalid-feedback"> Đây là địa chỉ bắt buộc. </div>
+                                </div>
+                                <div class="col-md-6 mb-3">
+                                    <label for="lastName">Tên *</label>
+                                    <input type="text" class="form-control" id="lastName" placeholder="" value="" required>
+                                    <div class="invalid-feedback"> Đây là địa chỉ bắt buộc. </div>
+                                </div>
+                            </div>
+                            <div class="mb-3">
+                                <label for="username">Tên người dùng *</label>
+                                <div class="input-group">
+                                    <input type="text" class="form-control" id="username" placeholder="" required>
+                                    <div class="invalid-feedback" style="width: 100%;"> Đây là địa chỉ bắt buộc. </div>
+                                </div>
+                            </div>
+                            <div class="mb-3">
+                                <label for="email">Địa chỉ email *</label>
+                                <input type="email" class="form-control" id="email" placeholder="">
+                                <div class="invalid-feedback"> Điền Email của bạn để được cập nhật việc giao hàng. </div>
+                            </div>
+                            <div class="mb-3">
+                                <label for="address">Địa chỉ *</label>
+                                <input type="text" class="form-control" id="address" placeholder="" required>
+                                <div class="invalid-feedback"> Điền địa chỉ nhận hàng của bạn. </div>
+                            </div>
+                            <div class="mb-3">
+                                <label for="address2">Địa chỉ 2 *</label>
+                                <input type="text" class="form-control" id="address2" placeholder=""> </div>
+                            <div class="row">
+                                <div class="col-md-5 mb-3">
+                                    <label for="country">Quốc gia *</label>
+                                    <select class="wide w-100" id="country">
+									<option value="Choose..." data-display="Select">Choose...</option>
+									<option value="Việt Nam">Việt Nam</option>
+								</select>
+                                    <div class="invalid-feedback"> Hãy chọn tên quốc gia. </div>
+                                </div>
+                                <div class="col-md-4 mb-3">
+                                    <label for="state">Thành phố *</label>
+                                    <select class="wide w-100" id="state">
+									<option data-display="Select">Choose...</option>
+									<option>Hà Nội</option>
+								</select>
+                                    <div class="invalid-feedback"> Vui lòng cung cấp tên hợp lệ. </div>
+                                </div>
+                                <div class="col-md-3 mb-3">
+                                    <label for="zip">Mã bưu điện *</label>
+                                    <input type="text" class="form-control" id="zip" placeholder="" required>
+                                    <div class="invalid-feedback"> Mã bưu điện là bắt buộc. </div>
+                                </div>
+                            </div>
+                            <hr class="mb-4">
+                            <div class="custom-control custom-checkbox">
+                                <input type="checkbox" class="custom-control-input" id="same-address">
+                                <label class="custom-control-label" for="same-address">Địa chỉ giao hàng giống với địa chỉ thanh toán của tôi</label>
+                            </div>
+                            <div class="custom-control custom-checkbox">
+                                <input type="checkbox" class="custom-control-input" id="save-info">
+                                <label class="custom-control-label" for="save-info">Lưu thông tin này cho lần sau</label>
+                            </div>
+                            <hr class="mb-4">
+                            <div class="title"> <span>Thanh toán</span> </div>
+                            <div class="d-block my-3">
+                                <div class="custom-control custom-radio">
+                                    <input id="credit" name="paymentMethod" type="radio" class="custom-control-input" checked required>
+                                    <label class="custom-control-label" for="credit">Thẻ tín dụng</label>
+                                </div>
+                                <div class="custom-control custom-radio">
+                                    <input id="debit" name="paymentMethod" type="radio" class="custom-control-input" required>
+                                    <label class="custom-control-label" for="debit">Thẻ ghi nợ</label>
+                                </div>
+                                <div class="custom-control custom-radio">
+                                    <input id="paypal" name="paymentMethod" type="radio" class="custom-control-input" required>
+                                    <label class="custom-control-label" for="paypal">Paypal</label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6 mb-3">
+                                    <label for="cc-name">Tên trên thẻ</label>
+                                    <input type="text" class="form-control" id="cc-name" placeholder="" required> <small class="text-muted">Tên đầy đủ trên thẻ</small>
+                                    <div class="invalid-feedback"> Tên trên thẻ là bắt buộc </div>
+                                </div>
+                                <div class="col-md-6 mb-3">
+                                    <label for="cc-number">Số thẻ tín dụng</label>
+                                    <input type="text" class="form-control" id="cc-number" placeholder="" required>
+                                    <div class="invalid-feedback"> Số thẻ tín dụng là bắt buộc </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-3 mb-3">
+                                    <label for="cc-expiration">Ngày hết hạn</label>
+                                    <input type="text" class="form-control" id="cc-expiration" placeholder="" required>
+                                    <div class="invalid-feedback"> Ngày hết hạn là bắt buộc </div>
+                                </div>
+                                <div class="col-md-3 mb-3">
+                                    <label for="cc-expiration">Mã bảo mật</label>
+                                    <input type="text" class="form-control" id="cc-cvv" placeholder="" required>
+                                    <div class="invalid-feedback"> Mã bảo mật là bắt buộc </div>
+                                </div>
+                                <div class="col-md-6 mb-3">
+                                    <div class="payment-icon">
+                                        <ul>
+                                            <li><img class="img-fluid" src="images/payment-icon/1.png" alt=""></li>
+                                            <li><img class="img-fluid" src="images/payment-icon/2.png" alt=""></li>
+                                            <li><img class="img-fluid" src="images/payment-icon/3.png" alt=""></li>
+                                            <li><img class="img-fluid" src="images/payment-icon/5.png" alt=""></li>
+                                            <li><img class="img-fluid" src="images/payment-icon/7.png" alt=""></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <hr class="mb-1"> </form>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-lg-6 mb-3">
+                    <div class="row">
+                        <div class="col-md-12 col-lg-12">
+                            <div class="shipping-method-box">
+                                <div class="title-left">
+                                    <h3>Phương thức vận chuyển</h3>
+                                </div>
+                                <div class="mb-4">
+                                    <div class="custom-control custom-radio">
+                                        <input id="shippingOption1" name="shipping-option" class="custom-control-input" checked="checked" type="radio">
+                                        <label class="custom-control-label" for="shippingOption1">Vận chuyển thường</label> <span class="float-right font-weight-bold">Miễn phí</span> </div>
+                                    <div class="ml-4 mb-2 small">(3-7 ngày)</div>
+                                    <div class="custom-control custom-radio">
+                                        <input id="shippingOption2" name="shipping-option" class="custom-control-input" type="radio">
+                                        <label class="custom-control-label" for="shippingOption2">Chuyển phát nhanh</label> <span class="float-right font-weight-bold">$10.00</span> </div>
+                                    <div class="ml-4 mb-2 small">(2-4 ngày)</div>
+                                    <div class="custom-control custom-radio">
+                                        <input id="shippingOption3" name="shipping-option" class="custom-control-input" type="radio">
+                                        <label class="custom-control-label" for="shippingOption3">Giao hàng trong tuần</label> <span class="float-right font-weight-bold">$20.00</span> </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12 col-lg-12">
+                            <div class="odr-box">
+                                <div class="title-left">
+                                    <h3>Giỏ hàng</h3>
+                                </div>
+                                <div class="rounded p-2 bg-light">
+                                    <div class="media mb-2 border-bottom">
+                                        <div class="media-body"> <a href="detail.html"> Túi xách Gucci</a>
+                                            <div class="small text-muted">Giá: $80.00 <span class="mx-2">|</span> Số lượng: 1 <span class="mx-2">|</span> Tổng: $80.00</div>
+                                        </div>
+                                    </div>
+                                    <div class="media mb-2 border-bottom">
+                                        <div class="media-body"> <a href="detail.html"> Khăn choàng LV</a>
+                                            <div class="small text-muted">Giá: $60.00 <span class="mx-2">|</span> Số lượng: 1 <span class="mx-2">|</span> Tổng: $60.00</div>
+                                        </div>
+                                    </div>
+                                    <div class="media mb-2">
+                                        <div class="media-body"> <a href="detail.html"> Mắt kính Dior</a>
+                                            <div class="small text-muted">Giá: $40.00 <span class="mx-2">|</span> Số lượng: 1 <span class="mx-2">|</span> Tổng: $40.00</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12 col-lg-12">
+                            <div class="order-box">
+                                <div class="title-left">
+                                    <h3>Đơn hàng của bạn</h3>
+                                </div>
+                                <div class="d-flex">
+                                    <div class="font-weight-bold">Sản phẩm</div>
+                                    <div class="ml-auto font-weight-bold">Tổng</div>
+                                </div>
+                                <hr class="my-1">
+                                <div class="d-flex">
+                                    <h4>Tổng sản phẩm</h4>
+                                    <div class="ml-auto font-weight-bold"> $ 440 </div>
+                                </div>
+                                <div class="d-flex">
+                                    <h4>Giảm giá</h4>
+                                    <div class="ml-auto font-weight-bold"> $ 40 </div>
+                                </div>
+                                <hr class="my-1">
+                                <div class="d-flex">
+                                    <h4>Mã giảm giá</h4>
+                                    <div class="ml-auto font-weight-bold"> $ 10 </div>
+                                </div>
+                                <div class="d-flex">
+                                    <h4>Thuế</h4>
+                                    <div class="ml-auto font-weight-bold"> $ 2 </div>
+                                </div>
+                                <div class="d-flex">
+                                    <h4>Phí vận chuyển</h4>
+                                    <div class="ml-auto font-weight-bold"> Miễn phí </div>
+                                </div>
+                                <hr>
+                                <div class="d-flex gr-total">
+                                    <h5>Tổng thanh toán</h5>
+                                    <div class="ml-auto h5"> $ 388 </div>
+                                </div>
+                                <hr> </div>
+                        </div>
+                        <div class="col-12 d-flex shopping-box"> <a href="checkout.html" class="ml-auto btn hvr-hover">Đặt hàng</a> </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <!-- End Cart -->
+
+    <!-- Start Instagram Feed  -->
+    <div class="instagram-box">
+        <div class="main-instagram owl-carousel owl-theme">
+            <div class="item">
+                <div class="ins-inner-box">
+                    <img src="images/instagram-img-01.jpg" alt="" />
+                    <div class="hov-in">
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="ins-inner-box">
+                    <img src="images/instagram-img-02.jpg" alt="" />
+                    <div class="hov-in">
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="ins-inner-box">
+                    <img src="images/instagram-img-03.jpg" alt="" />
+                    <div class="hov-in">
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="ins-inner-box">
+                    <img src="images/instagram-img-04.jpg" alt="" />
+                    <div class="hov-in">
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="ins-inner-box">
+                    <img src="images/instagram-img-05.jpg" alt="" />
+                    <div class="hov-in">
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="ins-inner-box">
+                    <img src="images/instagram-img-06.jpg" alt="" />
+                    <div class="hov-in">
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="ins-inner-box">
+                    <img src="images/instagram-img-07.jpg" alt="" />
+                    <div class="hov-in">
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="ins-inner-box">
+                    <img src="images/instagram-img-08.jpg" alt="" />
+                    <div class="hov-in">
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="ins-inner-box">
+                    <img src="images/instagram-img-09.jpg" alt="" />
+                    <div class="hov-in">
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="ins-inner-box">
+                    <img src="images/instagram-img-05.jpg" alt="" />
+                    <div class="hov-in">
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Instagram Feed  -->
+
+
+    <!-- Start Footer  -->
+    <footer>
+        <div class="footer-main">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-12 col-sm-12">
+                        <div class="footer-widget">
+                            <h4>Về ThewayShop</h4>
+                            <p>Thương hiệu The Way Shop, luôn mang đến cho khách hàng sự tin tưởng và thoải mái. Chúng tôi tự tin là thương hiệu hàng đầu về sản phẩm, dịch vụ.
+                                </p>
+                            <ul>
+                                <li><a href="#"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fab fa-linkedin" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fab fa-google-plus" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-rss" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fab fa-pinterest-p" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fab fa-whatsapp" aria-hidden="true"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-12 col-sm-12">
+                        <div class="footer-link">
+                            <h4>Thông tin</h4>
+                            <ul>
+                                <li><a href="#">Về chúng tôi</a></li>
+                                <li><a href="#">Dịch vụ khách hàng</a></li>
+                                <li><a href="#">Sơ đồ trang web</a></li>
+                                <li><a href="#">Kỳ hạn &amp; Điều kiện</a></li>
+                                <li><a href="#">Chính sách bảo mật</a></li>
+                                <li><a href="#">Thông tin giao hàng</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-12 col-sm-12">
+                        <div class="footer-link-contact">
+                            <h4>Liên hệ</h4>
+                            <ul>
+                                <li>
+                                    <p><i class="fas fa-map-marker-alt"></i>Địa chi: Hà Nội <br>Đường Nguyễn Chí Thanh,<br> Số 23 </p>
+                                </li>
+                                <li>
+                                    <p><i class="fas fa-phone-square"></i>Điện thoại: <a href="tel:0987 528 377 - 0989 490 980">0987 528 377 - 0989 490 980</a></p>
+                                </li>
+                                <li>
+                                    <p><i class="fas fa-envelope"></i>Email: <a href="mailto:thewayshopcontactinfo@gmail.com">thewayshopcontactinfo@gmail.com</a></p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- End Footer  -->
+
+    <!-- Start copyright  -->
+    <div class="footer-copyright">
+        <p class="footer-company">All Rights Reserved. &copy; 2018 <a href="#">ThewayShop</a> Design By :
+            <a href="https://html.design/">html design</a></p>
+    </div>
+    <!-- End copyright  -->
+
+    <a href="#" id="back-to-top" title="Back to top" style="display: none;">&uarr;</a>
+
+    <!-- ALL JS FILES -->
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <!-- ALL PLUGINS -->
+    <script src="js/jquery.superslides.min.js"></script>
+    <script src="js/bootstrap-select.js"></script>
+    <script src="js/inewsticker.js"></script>
+    <script src="js/bootsnav.js."></script>
+    <script src="js/images-loded.min.js"></script>
+    <script src="js/isotope.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/baguetteBox.min.js"></script>
+    <script src="js/form-validator.min.js"></script>
+    <script src="js/contact-form-script.js"></script>
+    <script src="js/custom.js"></script>
+</body>
+
+</html>
